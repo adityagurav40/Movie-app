@@ -2,7 +2,7 @@
 Made an clone of movie app using technologies like HTML, CSS &amp; JS
 
 
-https://trimbak15.github.io/Movie-App/
+
 
 The movie website is a dynamic platform that utilizes an API (Application Programming Interface) to retrieve and display movie-related information. The website serves as a hub for movie enthusiasts, providing them with an intuitive and user-friendly interface to search for movies, explore details, and discover new releases.
 
